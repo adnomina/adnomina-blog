@@ -20,7 +20,7 @@ export default async function(eleventyConfig) {
 	});
 
 	// Copy the contents of the `public` folder to the output folder
-	// For example, `./public/css/` ends up in `docs/css/`
+	// For example, `./public/css/` ends up in `site_/css/`
 	eleventyConfig
 		.addPassthroughCopy({
 			"./public/": "/"
@@ -150,7 +150,7 @@ export const config = {
 		input: "content",          // default: "."
 		includes: "../_includes",  // default: "_includes" (`input` relative)
 		data: "../_data",          // default: "_data" (`input` relative)
-		output: "docs"
+		output: "_site"
 	},
 
 	pathPrefix: "/adnomina-blog/",
