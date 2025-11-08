@@ -6,6 +6,6 @@ export default {
 	author: {
 		name: "Nicolas Herschke",
 		email: "nicolas.herschke@gmx.de",
-		url: "https://blog.adnomina.dev/about-me/"
+		url: "https://blog.adnomina.dev/about/"
 	}
 }
