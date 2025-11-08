@@ -153,5 +153,5 @@ export const config = {
 		output: "_site"
 	},
 
-	pathPrefix: "/adnomina-blog/",
+	//pathPrefix: "/adnomina-blog/",
 };
