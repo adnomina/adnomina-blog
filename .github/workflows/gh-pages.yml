@@ -37,12 +37,10 @@ jobs:
       - run: npm install
       - run: npm run build-ghpages
 
-      - name: Copy CNAME
-        run: cp CNAME _site/
-
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
+          cname: blog.adnomina.dev
