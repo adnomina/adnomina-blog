@@ -5,9 +5,37 @@
   <subtitle>I write about my experiences as a software developer.</subtitle>
   <link href="https://blog.adnomina.dev/feed/feed.xml" rel="self" />
   <link href="https://blog.adnomina.dev/" />
-  <updated>2025-11-12T19:20:18Z</updated>
+  <updated>2026-01-10T00:00:00Z</updated>
   <id>https://blog.adnomina.dev/</id>
   <author>
     <name>Nicolas Herschke</name>
   </author>
+  <entry>
+    <title>Software development in the age of AI</title>
+    <link href="https://blog.adnomina.dev/blog/20260110/" />
+    <updated>2026-01-10T00:00:00Z</updated>
+    <id>https://blog.adnomina.dev/blog/20260110/</id>
+    <content type="html">&lt;p&gt;Our work as software developers has been changing fast and dramatically since
+the advent of AI agents like Claude Code. We write less and less code by hand
+and there have been massive layoffs. I&#39;ve recently been thinking a lot about
+these changes and the skills required now in order to adapt to them.&lt;/p&gt;
+&lt;p&gt;AI agents accelerate research, planning, and decisions, which are a big part of
+the work of a software developer. This can make it easier to implement new
+features and enable developers to build more, faster. But AI agents can now
+also write better code than ever, slowly decreasing the value of hand-typed
+code. The human value now almost exclusively lies in system design, security,
+and ownership. Code might have become cheap, but systems thinking, exact
+specifications, and management skills still matter. These have historically been
+the area of more senior engineers, but will be important for any software
+developer in order to work well with AI coding agents. These skills are often
+summarized under the term &amp;quot;orchestration&amp;quot;, so, in a way, we&#39;re becoming
+conductors.&lt;/p&gt;
+&lt;p&gt;The speed at which our field is currently changing can be scary and the future
+is difficult to predict, but as long as AI requires human input, this is not the
+end of the road, yet. There will be new opportunities and new types of jobs.
+Also, just because something can be done in a modern way, doesn&#39;t necessarily
+mean that other methods will go extinct. Computers have been around for decades,
+but people still like to write on paper.&lt;/p&gt;
+</content>
+  </entry>
 </feed>
