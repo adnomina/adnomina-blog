@@ -6,14 +6,12 @@ const eleventyNavigation = {
 ---
 # About
 
-Hey there, my name is Nicolas.
+Hey, I'm Nick 👋
 
-I'm a full-stack software developer and I've been in the business since 2019. I'm currently working with WordPress sites, which means I'm doing a lot of PHP in the backend and JavaScript/jQuery in the frontend, but I'm preparing a career transition towards the JavaScript environment.
+Software engineer based in Augsburg. I build things for the web at Peerigon with TypeScript, React, and Node.js. I've been at it since 2019, when I started during my studies of Interactive Media.
 
-I'm also currently tinkering a lot with agentic engineering or AI-native software development, however you might call it, and learning a lot of new things every day about coding agents.
+In my spare time I play badminton, go on bike rides, draw, cook food from all over the world, and keep a bullet journal. I'm also deep into personal knowledge management, which is probably why this blog exists in the first place.
 
-Oh, and I use Arch btw, LOL.
+I run CachyOS Linux and have strong opinions about my setup. This blog is where I write about the things I'm figuring out: code, tools, ideas, whatever's on my mind.
 
-Anyway, on this blog I'm planning to write about my experience and lessons that I've learned as a web developer.
-
-Have fun looking around!
+Welcome to my blog!
