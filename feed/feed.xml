@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="pretty-atom-feed.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  
   <title>Adnomina&#39;s Blog</title>
   <subtitle>I write about my experiences as a software developer.</subtitle>
   <link href="https://blog.adnomina.dev/feed/feed.xml" rel="self" />
   <link href="https://blog.adnomina.dev/" />
-  <updated>2026-02-15T00:00:00Z</updated>
+  <updated>2026-05-18T00:00:00Z</updated>
   <id>https://blog.adnomina.dev/</id>
   <author>
     <name>Nicolas Herschke</name>
   </author>
+  <entry>
+    <title>Demystifying LLMs</title>
+    <link href="https://blog.adnomina.dev/blog/260518/" />
+    <updated>2026-05-18T00:00:00Z</updated>
+    <id>https://blog.adnomina.dev/blog/260518/</id>
+    <content type="html">&lt;p&gt;A Large Language Model is a sophisticated mathematical function that predicts what word comes next for any piece of text. It is a fancy word generator.&lt;/p&gt;
+&lt;p&gt;The &amp;quot;thinking&amp;quot; an LLM does is not contemplation; it is a statistical projection between words in a high-dimensional mathematical embedding space. It follows the vector path to the next most likely token, regardless of whether that path leads to a true statement or a falsehood.&lt;/p&gt;
+&lt;p&gt;Once an LLM is on a track, it treats its own previous output as the absolute foundation for what comes next. It does not fact check itself, it only consistency checks itself. If it makes an error, it will often compound that error to maintain the flow, spiraling into a loop of fabrications. In other words, to an LLM: the process of answering correctly and the process of spiraling into delusion are the exact same process.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Estimating Software Projects</title>
     <link href="https://blog.adnomina.dev/blog/260215/" />
@@ -67,9 +78,9 @@ reveals itself.&lt;/p&gt;
   </entry>
   <entry>
     <title>Software development in the age of AI</title>
-    <link href="https://blog.adnomina.dev/blog/20260110/" />
+    <link href="https://blog.adnomina.dev/blog/260110/" />
     <updated>2026-01-10T00:00:00Z</updated>
-    <id>https://blog.adnomina.dev/blog/20260110/</id>
+    <id>https://blog.adnomina.dev/blog/260110/</id>
     <content type="html">&lt;p&gt;Our work as software developers has been changing fast and dramatically since
 the advent of AI agents like Claude Code. We write less and less code by hand
 and there have been massive layoffs. I&#39;ve recently been thinking a lot about
